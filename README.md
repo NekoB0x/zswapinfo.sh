@@ -1,7 +1,8 @@
 # zswapinfo.sh
 A sinple bash script to display zswap statistics.
 
-~$ sudo ./zswapinfo.sh 
+```
+$ sudo ./zswapinfo.sh 
 ZSWAP Info
 --------------
 Stored pages: 1224
@@ -15,3 +16,4 @@ Reject compress poor: 0
 Reject kmemcache fail: 0
 Reject alloc fail: 0
 Reject reclaim fail: 0
+```
